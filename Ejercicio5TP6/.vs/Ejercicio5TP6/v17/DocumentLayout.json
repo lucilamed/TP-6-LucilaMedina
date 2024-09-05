@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\7mo EPET.N5 Lucila\\Profe Cano\\TRABAJO PRACTICO N\u00B06 PROYECTO\\Ejercicio5TP6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99994828-D074-4E49-8D96-B4A9FA1541E4}|Ejercicio5TP6\\Ejercicio5TP6.csproj|d:\\7mo epet.n5 lucila\\profe cano\\trabajo practico n\u00B06 proyecto\\ejercicio5tp6\\ejercicio5tp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99994828-D074-4E49-8D96-B4A9FA1541E4}|Ejercicio5TP6\\Ejercicio5TP6.csproj|solutionrelative:ejercicio5tp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\7mo EPET.N5 Lucila\\Profe Cano\\TRABAJO PRACTICO N\u00B06 PROYECTO\\Ejercicio5TP6\\Ejercicio5TP6\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio5TP6\\Program.cs",
+              "ToolTip": "D:\\7mo EPET.N5 Lucila\\Profe Cano\\TRABAJO PRACTICO N\u00B06 PROYECTO\\Ejercicio5TP6\\Ejercicio5TP6\\Program.cs",
+              "RelativeToolTip": "Ejercicio5TP6\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAB0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T00:08:38.719Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

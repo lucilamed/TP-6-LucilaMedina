@@ -1,0 +1,7 @@
+D:\7mo EPET.N5 Lucila\Profe Cano\TRABAJO PRACTICO N°6 PROYECTO\TPN-6_MedinaLucila\Ejercicio4TP6\Ejercicio4TP6\bin\Debug\Ejercicio4TP6.exe.config
+D:\7mo EPET.N5 Lucila\Profe Cano\TRABAJO PRACTICO N°6 PROYECTO\TPN-6_MedinaLucila\Ejercicio4TP6\Ejercicio4TP6\bin\Debug\Ejercicio4TP6.exe
+D:\7mo EPET.N5 Lucila\Profe Cano\TRABAJO PRACTICO N°6 PROYECTO\TPN-6_MedinaLucila\Ejercicio4TP6\Ejercicio4TP6\bin\Debug\Ejercicio4TP6.pdb
+D:\7mo EPET.N5 Lucila\Profe Cano\TRABAJO PRACTICO N°6 PROYECTO\TPN-6_MedinaLucila\Ejercicio4TP6\Ejercicio4TP6\obj\Debug\Ejercicio4TP6.csproj.AssemblyReference.cache
+D:\7mo EPET.N5 Lucila\Profe Cano\TRABAJO PRACTICO N°6 PROYECTO\TPN-6_MedinaLucila\Ejercicio4TP6\Ejercicio4TP6\obj\Debug\Ejercicio4TP6.csproj.CoreCompileInputs.cache
+D:\7mo EPET.N5 Lucila\Profe Cano\TRABAJO PRACTICO N°6 PROYECTO\TPN-6_MedinaLucila\Ejercicio4TP6\Ejercicio4TP6\obj\Debug\Ejercicio4TP6.exe
+D:\7mo EPET.N5 Lucila\Profe Cano\TRABAJO PRACTICO N°6 PROYECTO\TPN-6_MedinaLucila\Ejercicio4TP6\Ejercicio4TP6\obj\Debug\Ejercicio4TP6.pdb

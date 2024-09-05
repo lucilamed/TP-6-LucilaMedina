@@ -1,0 +1,7 @@
+D:\7mo EPET.N5 Lucila\Profe Cano\TRABAJO PRACTICO N°6 PROYECTO\Ejercicio5TP6\Ejercicio5TP6\bin\Debug\Ejercicio5TP6.exe.config
+D:\7mo EPET.N5 Lucila\Profe Cano\TRABAJO PRACTICO N°6 PROYECTO\Ejercicio5TP6\Ejercicio5TP6\bin\Debug\Ejercicio5TP6.exe
+D:\7mo EPET.N5 Lucila\Profe Cano\TRABAJO PRACTICO N°6 PROYECTO\Ejercicio5TP6\Ejercicio5TP6\bin\Debug\Ejercicio5TP6.pdb
+D:\7mo EPET.N5 Lucila\Profe Cano\TRABAJO PRACTICO N°6 PROYECTO\Ejercicio5TP6\Ejercicio5TP6\obj\Debug\Ejercicio5TP6.csproj.AssemblyReference.cache
+D:\7mo EPET.N5 Lucila\Profe Cano\TRABAJO PRACTICO N°6 PROYECTO\Ejercicio5TP6\Ejercicio5TP6\obj\Debug\Ejercicio5TP6.csproj.CoreCompileInputs.cache
+D:\7mo EPET.N5 Lucila\Profe Cano\TRABAJO PRACTICO N°6 PROYECTO\Ejercicio5TP6\Ejercicio5TP6\obj\Debug\Ejercicio5TP6.exe
+D:\7mo EPET.N5 Lucila\Profe Cano\TRABAJO PRACTICO N°6 PROYECTO\Ejercicio5TP6\Ejercicio5TP6\obj\Debug\Ejercicio5TP6.pdb
